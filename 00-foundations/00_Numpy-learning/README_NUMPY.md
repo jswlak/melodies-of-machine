@@ -10,7 +10,7 @@ This guide provides a concise overview of commonly used **NumPy** functions and 
 import numpy as np 
 ```
 
-    ✅ Standard convention to import NumPy.
+✅ Standard convention to import NumPy.
 
 🛠️ Creating Arrays
 
